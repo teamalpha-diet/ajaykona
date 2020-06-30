@@ -1,1 +1,1 @@
-# teamalphadiet.github.io
+# teamalpha-diet.github.io
